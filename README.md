@@ -20,4 +20,5 @@ __bonuses:__
 BUFFER\_SIZE is optional. The bonus files are the same.  
 Call get\_next\_line(fd).  
 ```c
-char	*get_next_line(int fd);```
+char	*get_next_line(int fd);
+```
